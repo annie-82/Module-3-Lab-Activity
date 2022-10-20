@@ -3,6 +3,12 @@
 #October 16, 2022
 #The purpose of this program is to greet the user using their name
 
+#Program expects to get an answer from a user 
+#name = input("Enter your name: ")
+#movie = input("Enter your favorite movie title: ")
+#city = input("Where do you live? ")
+
+
 #Below are responses to questions of my name, my favorite movie and which city I live in
 name_string = 'My name is Sara Hernandez.'
 movie_string = 'My favorite movie is Hocus Pocus.'
